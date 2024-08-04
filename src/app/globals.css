@@ -1,0 +1,164 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Belleza';
+    font-style: normal;
+    font-weight: normal;
+    /* font-display: swap; */
+    src: url('/fonts/Belleza-Regular.ttf') format('truetype');
+  }
+  body {
+    font-family: 'Belleza', sans-serif;
+  }
+}
+
+
+.custom-bg-u1 {
+  @apply bg-u1;
+}
+.custom-bg-u2 {
+  @apply bg-u2;
+}
+.custom-bg-u3 {
+  @apply bg-u3;
+}
+.custom-bg-u4 {
+  @apply bg-u4;
+}
+.custom-bg-u5 {
+  @apply bg-u5;
+}
+
+.custom-bg-m1 {
+  @apply bg-m1;
+}
+.custom-bg-m2 {
+  @apply bg-m2;
+}
+.custom-bg-m3 {
+  @apply bg-m3;
+}
+.custom-bg-m4 {
+  @apply bg-m4;
+}
+.custom-bg-m5 {
+  @apply bg-m5;
+}
+
+.custom-bg-m1 {
+  @apply bg-c1;
+}
+.custom-bg-m2 {
+  @apply bg-c2;
+}
+.custom-bg-m3 {
+  @apply bg-c3;
+}
+.custom-bg-m4 {
+  @apply bg-c4;
+}
+.custom-bg-m5 {
+  @apply bg-c5;
+}
+
+
+.custom-bg-y1{
+  @apply bg-y1
+}
+
+.custom-bg-y2{
+  @apply bg-y2
+}
+
+.custom-bg-y3{
+  @apply bg-y3
+}
+
+.custom-bg-y4{
+  @apply bg-y4
+}
+
+.custom-bg-y11{
+  @apply bg-y11
+}
+
+.custom-bg-y12{
+  @apply bg-y12
+}
+
+.custom-bg-y13{
+  @apply bg-y13
+}
+
+.custom-bg-y21{
+  @apply bg-y21
+}
+
+.custom-bg-y22{
+  @apply bg-y22
+}
+
+.custom-bg-y23{
+  @apply bg-y23
+}
+
+.custom-bg-y24{
+  @apply bg-y24
+}
+
+.custom-bg-y31{
+  @apply bg-y31
+}
+
+.custom-bg-y32{
+  @apply bg-y32
+}
+
+.custom-bg-y33{
+  @apply bg-y33
+}
+
+.custom-bg-y34{
+  @apply bg-y34
+}
+
+.custom-bg-y17{
+  @apply bg-y17
+}
+
+
+
+.custom-bg-blk1{
+  @apply bg-blk1
+}
+.custom-bg-blk2{
+  @apply bg-blk2
+}
+.custom-bg-blk3{
+  @apply bg-blk3
+}
+.custom-bg-blk4{
+  @apply bg-blk4
+}
+.custom-bg-blk5{
+  @apply bg-blk5
+}
+
+.custom-bg-wit1{
+  @apply bg-wit1
+}
+.custom-bg-wit2{
+  @apply bg-wit2
+}
+.custom-bg-wit3{
+  @apply bg-wit3
+}
+.custom-bg-wit4{
+  @apply bg-wit4
+}
+.custom-bg-wit5{
+  @apply bg-wit5
+}

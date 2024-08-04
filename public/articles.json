@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "First Article",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus pariatur animi temporibus nesciunt praesentium dolore sed nulla ipsum eveniet corporis quidem.",
+      "imageUrl": "https://cloudinary.hbs.edu/hbsit/image/upload/s--5YPcmM0m--/f_auto,c_fill,h_375,w_750,/v20200101/681DA2E060F4CEE9AA1C606DE6117A9E.jpg",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus pariatur animi temporibus nesciunt praesentium dolore sed nulla ipsum eveniet corporis quidem.",
+      "imageUrl": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+      "link": "#"
+    },
+    {
+        "id": 3,
+        "title": "Third Article",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus pariatur animi temporibus nesciunt praesentium dolore sed nulla ipsum eveniet corporis quidem.",
+        "imageUrl": "https://cdn2.hubspot.net/hubfs/53/Corporate-Image.jpg",
+        "link": "#"
+      },
+      {
+        "id": 4,
+        "title": "fourth Article",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus pariatur animi temporibus nesciunt praesentium dolore sed nulla ipsum eveniet corporis quidem.",
+        "imageUrl": "https://www.onboardmeetings.com/wp-content/uploads/2022/04/The-Basics-of-Corporate-Structure-2-1024x536.jpeg",
+        "link": "#"
+      },
+      {
+        "id": 5,
+        "title": "Fifth Article",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus pariatur animi temporibus nesciunt praesentium dolore sed nulla ipsum eveniet corporis quidem.",
+        "imageUrl": "https://cloudinary.hbs.edu/hbsit/image/upload/s--5YPcmM0m--/f_auto,c_fill,h_375,w_750,/v20200101/681DA2E060F4CEE9AA1C606DE6117A9E.jpg",
+        "link": "#"
+      }
+  ]
+  

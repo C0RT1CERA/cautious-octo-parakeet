@@ -1,0 +1,8 @@
+genration text anim
+https://ui.aceternity.com/components/text-generate-effect
+
+sticky scroll effect
+https://ui.aceternity.com/components/sticky-scroll-reveal
+
+form section
+https://www.hover.dev/components/forms
